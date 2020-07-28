@@ -1,0 +1,10 @@
+.header-container {
+  background: #f05036;
+  padding: 0.5em 0;
+}
+
+h1 {
+  color: white;
+  margin-left: 1%;
+  font-weight: bold;
+}
